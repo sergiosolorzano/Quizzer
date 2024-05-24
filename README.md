@@ -7,4 +7,4 @@ It takes about 2 minutes to generate the Q&A.
 
 https://quiz-sp-funcapp.azurewebsites.net/api/http_trigger?code=PtzKYVRXpCEkYOkbOW4jb-Cnr5GtT7W-r0GOehHfs6gxAzFuzBFtNg%3D%3D&wiki=coffee
 
-It needs some prompt engineering to avoid openAI repeating questions or ask about random topics.
+It needs some polishing and prompt engineering work to avoid openAI repeating questions or ask about random topics.
